@@ -1,0 +1,34 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+/* #initialInfo {
+    display: flex;
+} */
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.moreInfo {
+   display: none;
+   width: 500px;
+   padding-top: 35px;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    height: 30px;
+    width: 125px;
+}
+
+#allInfo {
+    display: flex;
+    align-items: center;
+}
